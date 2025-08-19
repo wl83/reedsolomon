@@ -43,7 +43,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/YuchongHu/reedsolomon"
+	"github.com/wl83/reedsolomon"
 )
 
 var dataShards = flag.Int("data", 4, "Number of shards to split the data into, must be below 257.")

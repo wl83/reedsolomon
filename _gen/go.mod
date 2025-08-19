@@ -1,4 +1,4 @@
-module github.com/YuchongHu/reedsolomon/_gen
+module github.com/wl83/reedsolomon/_gen
 
 go 1.16
 
